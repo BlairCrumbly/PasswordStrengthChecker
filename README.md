@@ -1,7 +1,7 @@
-🛡️ Elderly-Friendly Password Strength Checker 🔒
+###🛡️ Elderly-Friendly Password Strength Checker 🔒
 A simple, easy-to-use password strength checker designed with accessibility in mind. Perfect for seniors or anyone who wants a clear and straightforward way to create strong passwords.
 
-🌟 Features
+##🌟 Features
 - Easy-to-Read Feedback – Simple, clear guidance instead of complex jargon.
 - Accessible Design – Large text, high contrast, and user-friendly interface.
 - Real-Time Strength Check – Get instant feedback as you type.
@@ -18,7 +18,7 @@ git clone https://github.com/your-username/password-checker.git
 cd password-checker
 ```
 
-🏗️ Future Improvements
+##🏗️ Future Improvements
 🔹 Voice feedback for visually impaired users
 🔹 Multi-language support
 🔹 Dark mode option
