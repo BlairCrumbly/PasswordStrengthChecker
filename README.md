@@ -16,7 +16,7 @@ Online security is more important than ever, but not everyone is familiar with b
 ```bash
 git clone https://github.com/your-username/password-checker.git
 cd password-checker
-
+```
 
 🏗️ Future Improvements
 🔹 Voice feedback for visually impaired users
