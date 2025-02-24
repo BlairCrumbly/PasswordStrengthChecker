@@ -1,4 +1,4 @@
-##🛡️ Elderly-Friendly Password Strength Checker 🔒
+🛡️ Elderly-Friendly Password Strength Checker 🔒
 A simple, easy-to-use password strength checker designed with accessibility in mind. Perfect for seniors or anyone who wants a clear and straightforward way to create strong passwords.
 
 🌟 Features
