@@ -10,15 +10,13 @@ A simple, easy-to-use password strength checker designed with accessibility in m
 🎯 Why It Matters
 Online security is more important than ever, but not everyone is familiar with best practices for strong passwords. This tool ensures users can create secure passwords without confusion or frustration.
 
-🛠️ Installation & Usage
-Clone the repository:
-bash
-Copy
-Edit
+## 🛠️ Installation & Usage
+
+### Clone the repository:
+```bash
 git clone https://github.com/your-username/password-checker.git
 cd password-checker
-Open index.html (or run the app if applicable).
-Start testing your passwords!
+
 
 🏗️ Future Improvements
 🔹 Voice feedback for visually impaired users
